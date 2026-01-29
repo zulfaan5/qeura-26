@@ -1052,7 +1052,7 @@ body {
     .content-body { padding: 20px; }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 360px) {
     .nav-logo { font-size: 1.4rem; }
 
     .hero-title { font-size: 1.8rem; }
